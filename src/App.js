@@ -4,7 +4,7 @@ import Registerr from './Pages/Registerr';
 import TodayCounter from './Pages/TodayCounter';
 import CreateHabit from './Pages/CreateHabit';
 import Historic from './Pages/Historic';
-import { AuthProvider } from './AuthContext';
+import AuthProvider from './AuthContext';
 
 
 function App() {
